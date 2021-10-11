@@ -5,6 +5,6 @@ Demonstrated skills:
 - CSS
     - Flexbox
 
-Live Demo: https://tribster702.github.io/landing-page
+Live Demo: https://tribster702.github.io/landing-page/
 
 Image Credits: MTFOTOGRAFY
