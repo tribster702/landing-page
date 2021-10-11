@@ -158,11 +158,14 @@ button {
     font-size: 36px;
     align-items: center;
     align-content: center;
+    padding: 0 20px 0 20px;
 }
 
 .quote-author {
     text-align: right;
     font-weight: 800;
+    font-size: 30px;
+    padding: 0 20px 0 0;
 }
 
 .action-container {
