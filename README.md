@@ -7,8 +7,4 @@ Demonstrated skills:
 
 Live Demo: https://tribster702.github.io/landing-page/
 
----
-permalink: /index.html
----
-
 Image Credits: MTFOTOGRAFY
